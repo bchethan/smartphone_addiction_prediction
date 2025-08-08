@@ -1,0 +1,5 @@
+{
+    "venvPath": ".",
+    "venv": "smartphone_venv",
+    "pythonVersion": "3.13"
+}
